@@ -1,0 +1,20 @@
+streamlit==1.28.0
+pandas==2.0.3
+numpy==1.24.3
+torch==2.0.1
+torchvision==0.15.2
+scapy==2.5.0
+matplotlib==3.7.2
+seaborn==0.12.2
+sqlite3  # Built-in Python module
+
+# For email alerts
+secure-smtplib==0.1.1
+
+# Additional dependencies for network monitoring
+psutil==5.9.0
+netifaces==0.11.0
+
+# Optional: For advanced packet analysis
+pyshark==0.6.0
+dpkt==1.9.8
